@@ -20,12 +20,14 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kavinilavu5077/LeetCode_/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kavinilavu5077/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kavinilavu5077/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kavinilavu5077/LeetCode_/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kavinilavu5077/LeetCode_/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kavinilavu5077/LeetCode_/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kavinilavu5077/LeetCode_/tree/master/0645-set-mismatch) |
 ## Math
@@ -48,6 +50,15 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kavinilavu5077/LeetCode_/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kavinilavu5077/LeetCode_/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kavinilavu5077/LeetCode_/tree/master/0645-set-mismatch) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kavinilavu5077/LeetCode_/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kavinilavu5077/LeetCode_/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
