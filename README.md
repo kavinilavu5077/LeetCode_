@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinilavu5077/LeetCode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/kavinilavu5077/LeetCode_/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kavinilavu5077/LeetCode_/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
